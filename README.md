@@ -9,4 +9,5 @@
 
 
 repo 안의 yml에 eureka 설정이 있어서 discovery-server가 안돌면 error가 로그로 찍힘
+
 study_msa repo의 test/discovery-server를 같이 돌려주면 에러 안뜸! ㅇㅁ<
