@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+hi:
+  data: test-first-service-dev
